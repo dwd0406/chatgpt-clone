@@ -1,6 +1,6 @@
 # ChatGPT
 
-![](https://cdn.discordapp.com/attachments/692608173776961546/1004004062062202950/unknown.png)
+![](https://github.com/xcv46/chatgpt-clone-test1/blob/master/image.png)
 
 #### Install dependencies
 ```bash
